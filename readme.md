@@ -363,6 +363,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [nb](https://github.com/xwmx/nb) - A note‑taking, bookmarking, archiving, and knowledge base application.
 - [notesmd-cli](https://github.com/Yakitrak/notesmd-cli) - Interact with your Obsidian vault.
 - [journalot](https://github.com/jtaylortech/journalot) - Journaling tool with git sync.
+- [devlog-cli](https://github.com/SpIob/devlog-cli) - Offline developer journal with local-LLM digests, semantic search, and MCP server. Streaks, tag co-occurrence, calendar heatmap, git-native entries, jrnl/Day One import. No cloud, no account.
 - [rucola](https://github.com/Linus-Mussmaecher/rucola) - Manage your markdown notes.
 - [kanban.bash](https://github.com/coderofsalvation/kanban.bash) - Kanban todo manager with a CSV backend.
 - [kanban](https://github.com/fulsomenko/kanban) - Keyboard-driven project management tool inspired by lazygit.
